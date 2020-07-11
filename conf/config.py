@@ -34,11 +34,11 @@ SERVER_ID = "488e034c79aa43d19bb58dbe0249e226"
 SECRET_KEY_NAME = "private_20200711164924.key"
 
 # LOCAL ADDRESS
-LOCAL_ADDRESS = "https://[Heroku app name].herokuapp.com/"
+LOCAL_ADDRESS = "https://ikachibot.herokuapp.com/"
 
 # DB config
-DB_HOST = "ec2-xxx-xxx-xxx-xxx.compute-1.amazonaws.com"
-DB_NAME = "x3mdxxxxsg5nx"
-DB_USER = "xsozxxxxvksikx"
+DB_HOST = "ec2-34-197-188-147.compute-1.amazonaws.com"
+DB_NAME = "d9phsk4o4nh9qk"
+DB_USER = "gqzsimhckqdhhk"
 DB_PORT = "5432"
-DB_PASSWORD = "xxxxxb3ff80c85d331da880f4b3e0xxxxxxxxxxxd552d64d128317653ce0xxxx"
+DB_PASSWORD = "f1cbf8ab30ec7dddd07c03c4b30075eb91c7d88bfdc4fb576ef37e1187863c8a"
